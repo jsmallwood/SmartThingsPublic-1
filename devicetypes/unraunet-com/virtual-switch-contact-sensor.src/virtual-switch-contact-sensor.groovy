@@ -15,6 +15,9 @@ metadata {
 	}
 }
 
+def parse(description) {
+}
+
 def installed() {
 	log.trace "Executing 'installed'"
 	off()
